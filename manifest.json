@@ -1,0 +1,17 @@
+{
+  "name": "TIDITA Wayfair Ops",
+  "short_name": "WF Ops",
+  "description": "Dashboard theo dõi tồn kho, sản xuất, shipment Wayfair",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#161B20",
+  "theme_color": "#161B20",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
